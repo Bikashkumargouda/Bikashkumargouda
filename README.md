@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React**
+- 💬 Ask me about **Html, CSS, Bootstrap, TailwindCSS, JavaScript, React**
 
 - 📫 How to reach me **kumar.bikash.gouda@gmail.com**
 
